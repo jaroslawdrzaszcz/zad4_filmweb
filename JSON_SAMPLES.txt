@@ -1,0 +1,31 @@
+Zapisanie nowego filmu/aktualizacja:
+
+{
+"name" : "Wladca Pierscieni : Powrót króla.",
+"type" : "Sciance Fiction"
+}
+
+Dodanie komentarza do filmu:
+
+{
+"comment" : "AAA"
+}
+
+Dodanie oceny do filmu:
+
+{
+"rating" : 9.5
+}
+
+Zapisanie nowego aktora/aktualizacja:
+
+{
+"name" : "Vigo",
+"surname" : "Mortensen"
+}
+
+Dodanie filmu o okreslonym id do aktora (jednoczeœnie dodaje aktora filmu):
+
+{
+"id" : 1
+}
